@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Properties",
+    "\\Views",
+    "\\wwwroot"
   ],
-  "SelectedNode": "\\Properties",
+  "SelectedNode": "\\Models\\Course.cs",
   "PreviewInSolutionExplorer": false
 }
